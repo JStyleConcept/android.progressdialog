@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Progress Dialog</string>
+    <string name="clickme">Click Me</string>
+    <string name="menu_sourcecode">View Source Code</string>
+    <string name="menu_quitapp">Quit App</string>
+    <string name="title_activity_source_code">Source Code</string>
+
+</resources>
