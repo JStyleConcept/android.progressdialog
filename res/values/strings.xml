@@ -6,5 +6,7 @@
     <string name="menu_sourcecode">View Source Code</string>
     <string name="menu_quitapp">Quit App</string>
     <string name="title_activity_source_code">Source Code</string>
+    <string name="progressdialog1">Progress Dialog 1</string>
+    <string name="progressdialog2">Progress Dialog 2</string>
 
 </resources>
