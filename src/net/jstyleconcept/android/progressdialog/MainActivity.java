@@ -48,7 +48,7 @@ public class MainActivity extends Activity {
 				progressDialog.show();
 				new Thread() {
 					public void run() {
-						for(int i=0;i<100;i+=10) {
+						for(int i=0;i<=100;i+=10) {
 							try {
 								sleep(500);
 							}
